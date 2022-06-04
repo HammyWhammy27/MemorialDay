@@ -1,0 +1,76 @@
+body{
+    background-image: url("https://media.defense.gov/2018/May/17/2001918430/-1/-1/0/180525-F-PO640-003.JPG");
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifs;
+ 
+}
+h1{
+    text-align: center;
+    color: azure;
+    background-color: rgba(0, 0, 0, 0.5)
+}
+h3{
+    text-align: center;
+    color: azure;
+    background-color: rgba(0, 0, 0, 0.5)
+    
+}
+p{
+    color: azure;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.first {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 80%;
+    width: 70%;
+    border-radius: 30%;
+    border-color: aquamarine;
+    border-style: dashed;
+}
+.second {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 70%;
+    width: 60%;
+    border-radius: 30%;
+    border-color: aquamarine;
+    border-style: dashed;
+}
+.third{
+    height: 60%;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border-radius: 30%;
+    border-color: aquamarine; 
+    border-style: dashed;
+
+}
+.fourth{
+  height: 50%;
+  width: 40%;  
+  background-color: aquamarine;
+  border-style: dashed;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 30%;
+}
+.lastone{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 40%;
+    width: 30%;   
+    border-radius: 30%;
+    border-color: aquamarine;
+    border-style: dashed;
+}
+
+/* add additional images 
+give each image a class or id 
+each image needs to have its own unique style. */
